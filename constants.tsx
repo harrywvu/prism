@@ -57,19 +57,19 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: "John Harold Alejo",
     role: "Founder & CEO",
     bio: "The visionary architect behind PRISM's unified ecosystem, driving the digital transformation of modern campuses.",
-    imageUrl: "assets/ceo.jpg"
+    imageUrl: "../assets/ceo.jpg"
   },
   {
     name: "Aeron Jhen Garvida",
     role: "COO",
     bio: "Orchestrating seamless operations and ensuring strategic integration across all university resource points.",
-    imageUrl: "assets/coo.jpg"
+    imageUrl: "../assets/coo.jpg"
   },
   {
     name: "Mark Lemuel Valera",
     role: "CFO",
     bio: "Spearheading financial strategy and sustainable growth to build a robust and scalable platform.",
-    imageUrl: "assets/cfo.jpg"
+    imageUrl: "../assets/cfo.jpg"
   }
 ];
 
